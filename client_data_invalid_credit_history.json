@@ -1,0 +1,29 @@
+{
+  "firstName": "Александр",
+  "middleName": "Сергеевич",
+  "lastName": "Кузнецов",
+  "birthDate": "1990-02-15T00:00:00.000Z",
+  "citizenship": "РФ",
+  "passport": {
+    "series": "12 99",
+    "number": "112233",
+    "issuedAt": "2011-02-15T00:00:00.000Z",
+    "issuer": "УФМС",
+    "issuerСode": "999-000"
+  },
+  "creditHistory": [
+    {
+      "type": "Кредитная карта",
+      "currency": "RUB",
+      "issuedAt": "2021-01-01T00:00:00.000Z",
+      "rate": 0.2,
+      "loanSum": 50000,
+      "term": 12,
+      "repaidAt": null,
+      "currentOverdueDebt": 1000,
+      "numberOfDaysOnOverdue": 5,
+      "remainingDebt": 5000,
+      "creditId": "c3"
+    }
+  ]
+}

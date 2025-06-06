@@ -1,0 +1,29 @@
+{
+  "firstName": "Иван",
+  "middleName": "Иванович",
+  "lastName": "Иванов",
+  "birthDate": "1983-06-01T00:00:00.000Z",
+  "citizenship": "РФ",
+  "passport": {
+    "series": "12 34",
+    "number": "123456",
+    "issuedAt": "2023-06-01T00:00:00.000Z",
+    "issuer": "УФМС",
+    "issuerСode": "123-456"
+  },
+  "creditHistory": [
+    {
+      "type": "Кредит наличными",
+      "currency": "RUB",
+      "issuedAt": "2010-01-01T00:00:00.000Z",
+      "rate": 0.13,
+      "loanSum": 150000,
+      "term": 24,
+      "repaidAt": "2012-01-01T00:00:00.000Z",
+      "currentOverdueDebt": 0,
+      "numberOfDaysOnOverdue": 0,
+      "remainingDebt": 0,
+      "creditId": "a1"
+    }
+  ]
+}

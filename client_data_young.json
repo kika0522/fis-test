@@ -1,0 +1,15 @@
+{
+  "firstName": "Мария",
+  "middleName": "Алексеевна",
+  "lastName": "Титова",
+  "birthDate": "2007-09-10T00:00:00.000Z",
+  "citizenship": "РФ",
+  "passport": {
+    "series": "77 88",
+    "number": "445566",
+    "issuedAt": "2024-01-10T00:00:00.000Z",
+    "issuer": "ГУ МВД",
+    "issuerСode": "777-888"
+  },
+  "creditHistory": []
+}

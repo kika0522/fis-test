@@ -1,0 +1,29 @@
+{
+  "firstName": "Ольга",
+  "middleName": "Петровна",
+  "lastName": "Смирнова",
+  "birthDate": "1970-05-20T00:00:00.000Z",
+  "citizenship": "РФ",
+  "passport": {
+    "series": "56 78",
+    "number": "987654",
+    "issuedAt": "2010-01-01T00:00:00.000Z",
+    "issuer": "УФМС",
+    "issuerСode": "654-321"
+  },
+  "creditHistory": [
+    {
+      "type": "Кредит наличными",
+      "currency": "RUB",
+      "issuedAt": "2005-01-01T00:00:00.000Z",
+      "rate": 0.1,
+      "loanSum": 100000,
+      "term": 12,
+      "repaidAt": "2006-01-01T00:00:00.000Z",
+      "currentOverdueDebt": 0,
+      "numberOfDaysOnOverdue": 0,
+      "remainingDebt": 0,
+      "creditId": "b2"
+    }
+  ]
+}
